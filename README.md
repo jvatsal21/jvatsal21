@@ -4,17 +4,16 @@ A master's CS student at the University of Michigan passionate about 🤖 artifi
 <p align="left">  </p>
 
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🎯 Goals for this year: To be profficient in MERN Stack :|
+- 🌱 I’m currently learning MongoDB, LangChain, and multiscale transformer architecture
+- 👯 I’m looking to collaborate on full stack AI-powered projects in healthcare and education
+- 🎯 Goals for this year: To self-learn embedded system design and create an embedded programming project of my own
 - 🎓 I'm graduating in spring 2025
 - 💬 Talk to me about basketball 🏀 (🍀 fan), Formula 1 🏎️, music production 🎹, or anything that interests you.
 - ⚡ Fun fact: I want to believe in <a href="https://medium.com/mondo/what-is-last-thursdayism-db9d16b4d76a">Last-Thursdayism</a> - the unfalsifiable idea that the world might as well have been created last Thursday
 
 ## 🖥 Tech Stack &nbsp; 
 
-<h4> Languages </h4>
+<h4>✏  Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -28,7 +27,7 @@ A master's CS student at the University of Michigan passionate about 🤖 artifi
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
-<h4> Libraries/Frameworks </h4>
+<h4>📚  Libraries/Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -43,38 +42,38 @@ A master's CS student at the University of Michigan passionate about 🤖 artifi
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
-<h4> Cloud/Distributed Computing </h4>
+<h4>☁️  Cloud/Distributed Computing </h4>
 <span>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 </span>
-<h4> Databases </h4>
+<h4>🗃️  Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
-<h4> IDE </h4>
+<h4>🛠️  IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </span>
-<h4> Operating System </h4>
+<h4>⚙️  Operating System </h4>
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
   <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
 </span>
-<h4> Quantum Framework </h4>
+<h4>⚛️  Quantum Framework </h4>
 <span>
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white">
 </span>
-<h4> Other Tools and Technologies </h4>
+<h4>🧰  Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white">
